@@ -24,6 +24,7 @@ Adobe Acrobat is a great entry-level tool for OCR. It works best for good qualit
 >	* Select 'Open with' and choose Adobe Acrobat
 >	* If this is your first time using Acrobat, you will be asked to sign-in to your account. Use your Yale crendaentials (NetID & password). 
 >* Select 'Scan & OCR' from the 'Tools' menu.
+> ![Screenshot of Acrobat Tools menu](../assets/img/ScanAndOCR.png)
 >* Click the 'Recognize Text' drop-down.
 >	* Change 'Settings' and 'language' if necessary.
 >	* Click the blue 'Recognize Text' button to begin OCR.
@@ -38,6 +39,7 @@ Acrobat cannot be 100% accurate with it's OCR. It will highlight words with when
 >1. Click the 'Recognize Text' drop-down.
 >	* Select 'Correct recognized text'
 >2. Each word with a low confidence rating will appear in a red box.
+>	![Screenshot of correct text options](../assets/img/CorrectText.png)
 >	* Click on words in box.
 >	* Correct transcription as necessary.
 >	* Selct 'Apply' and move to the next potential error.

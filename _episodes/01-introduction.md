@@ -36,8 +36,8 @@ keypoints:
 * Most PDFs that we OCR come from photos or scans of physical items. PDFs created digitally, including journal publications, have a text layer already built-in. We can check if a PDF already has text built-in by trying to copy/paste the text or by searching the PDF (Ctrl+F or Cmd+F).
 * The quality of a scanned document has a great effect on the accuracy of the OCR. It's best to scan documents at high quality (600 dpi) and with good, overhead lighting. Book scanners are great for this job.
 
-![](./assets/img/poxLarge.png)
+![](../assets/img/poxLarge.png)
 
-![](./assets/img/badTable.png) ![](./assets/img/skewedImage.png)
+![](../assets/img/badTable.png) ![](../assets/img/skewedImage.png)
 
-![](./assets/img/InterAmerican.png)
+![](../assets/img/InterAmerican.png)
