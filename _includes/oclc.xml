@@ -1,0 +1,171 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='/webservices/catalog/xsl/searchRetrieveResponse.xsl'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/" xmlns:oclcterms="http://purl.org/oclc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<version>1.1</version>
+<numberOfRecords>6</numberOfRecords>
+<records>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Praet, Istvan, 1974-</dc:creator>
+<dc:description>Acknowledgments (starting p. ix) -- World Map (starting p. xv) -- Introduction (starting p. 1) -- pt. I Restricted Life -- 1. Humans: Us, the Human Beings, the Living Ones (starting p. 13) -- 2. Monsters: An Argument Against Foreigners (starting p. 37) -- 3. Beasts: An Argument Against Wildlife (starting p. 61) -- pt. II Life as Discontinuity -- 4. Adversity: An Investigation into Metamorphosis (starting p. 89) -- 5. Death: Ritual and the Suspension of Life (starting p. 115) -- 6. Catastrophe: Examining Collective Metamorphoses (starting p. 138) -- Conclusion (starting p. 165) -- Notes (starting p. 169) -- Bibliography (starting p. 181) -- Index (starting p. 193)</dc:description>
+<dc:format>xiv, 198 pages ; 24 cm.</dc:format>
+<dc:identifier>9780415704953</dc:identifier>
+<dc:identifier>0415704952</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:relation>Routledge studies in anthropology ; 15</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Animism.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Anthropology of religion.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Life.</dc:subject>
+<dc:title>Animism and the question of life </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">130405</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2013013852</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>853435847</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Praet, Istvan,</dc:creator>
+<dc:date>2014</dc:date>
+<dc:description>Includes bibliographical references and index.</dc:description>
+<dc:format>pages cm.</dc:format>
+<dc:identifier>9780415704953</dc:identifier>
+<dc:identifier>0415704952</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Routledge</dc:publisher>
+<dc:relation>Routledge studies in anthropology ; 15</dc:relation>
+<dc:subject>Animism</dc:subject>
+<dc:subject>Anthropology of religion</dc:subject>
+<dc:subject>Life</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Animism.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Anthropology of religion.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Life.</dc:subject>
+<dc:title>Animism and the question of life </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">130814</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>858015811</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Praet, Istvan.</dc:creator>
+<dc:date>2014</dc:date>
+<dc:description>Du site de l'ed.: The central purpose of this book is to help change the terms of the debate on animism, a classic theme in anthropology. It combines some of the finest ethnographic material currently available (including firsthand research on the Chachi of Ecuador) with an unusually broad geographic scope (the Americas, Asia, and Africa). Edward B. Tylor originally defined animism as the first phase in the development of religion. The heyday of cultural evolutionism may be over, but his basic conception is commonly assumed to remain valid in at least one respect: there is still a broad consensus that everything is alive within animism, or at least that more things are alive than a modern scientific observer would allow for (e.g., clouds, rivers, mountains) It is considered self-evident that animism is based on a kind of exaggeration: its adherents are presumed to impute life to this, that and the other in a remarkably generous manner. Against the prevailing consensus, this book argues that if animism has one outstanding feature, it is its peculiar restrictiveness. Animistic notions of life are astonishingly uniform across the globe, insofar as they are restricted rather than exaggerated. In the modern Western cosmology, life overlaps with the animate. Within animism, however, life is always conditional, and therefore tends to be limited to one's kin, one's pets and perhaps the plants in one's garden. Thus it emerges that "our" modern biological concept of life is stranger than generally thought.</dc:description>
+<dc:description>Part I Restricted life -- 1. Humans: us, the human beings, the living ones. 2. Monsters: an argument against foreigners. 3. Beasts: an argument against wildlife. Part II Life as discontinuity -- 4. Adversity: an investigation into metamorphosis. 5. Death: ritual and the suspension of life. 6. Catastrophe: Examining collective metamorphoses.</dc:description>
+<dc:format>1 vol. (xiv, 198 pages) ; 24 cm.</dc:format>
+<dc:identifier>9780415704953</dc:identifier>
+<dc:identifier>0415704952</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Routledge</dc:publisher>
+<dc:relation xsi:type="http://purl.org/dc/terms/URI">http://catalogue.bnf.fr/ark:/12148/cb436366192</dc:relation>
+<dc:relation>Routledge studies in anthropology ; 15</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Animism.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Anthropology of religion.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Life.</dc:subject>
+<dc:title>Animism and the question of life </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">140304</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>880982409</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:contributor>Praet, Istvan, 1974-</dc:contributor>
+<dc:date>2014</dc:date>
+<dc:description>Introduction Part I: Restricted Life 1. Humans: Us, the Human Beings, the Living Ones 2. Monsters: An Argument Against Foreigners 3. Beasts: An Argument Against Wildlife Part II: Life as Discontinuity 4. Adversity: An Investigation into Metamorphosis 5. Death: Ritual and the Suspension of Life 6. Catastrophe: Examining Collective Metamorphoses. Conclusion</dc:description>
+<dc:description>The central purpose of this book is to help change the terms of the debate on animism, a classic theme in anthropology. It combines some of the finest ethnographic material currently available (including firsthand research on the Chachi of Ecuador) with an unusually broad geographic scope (the Americas, Asia, and Africa). Edward B. Tylor originally defined animism as the first phase in the development of religion. The heyday of cultural evolutionism may be over, but his basic conception is commonly assumed to remain valid in at least one respect: there is still a broad consensus that everything is alive within animism, or at least that more things are alive than a modern scientific observer would allow for (e.g., clouds, rivers, mountains) It is considered self-evident that animism is based on a kind of exaggeration: its adherents are presumed to impute life to this, that and the other in a remarkably generous manner. Against the prevailing consensus, this book argues that if animism has one outstanding feature, it is its peculiar restrictiveness. Animistic notions of life are astonishingly uniform across the globe, insofar as they are restricted rather than exaggerated. In the modern Western cosmology, life overlaps with the animate. Within animism, however, life is always conditional, and therefore tends to be limited to one's kin, one's pets and perhaps the plants in one's garden. Thus it emerges that "our" modern biological concept of life is stranger than generally thought.</dc:description>
+<dc:format>xiv, 198 s.</dc:format>
+<dc:identifier>9780415704953</dc:identifier>
+<dc:identifier>0415704952</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Routledge</dc:publisher>
+<dc:relation>Routledge studies in anthropology ; 15</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Animism.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Anthropology of religion.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Life.</dc:subject>
+<dc:title>Animism and the question of life </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">150126</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier xsi:type="http://purl.org/oclc/terms/lccn">  2013013852</oclcterms:recordIdentifier>
+<oclcterms:recordIdentifier>900754815</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Praet, Istvan, 1974-</dc:creator>
+<dc:description>First published in 2014.</dc:description>
+<dc:description>"First issued in paperback 2015"--Title page verso.</dc:description>
+<dc:format>xiv, 198 pages : map ; 23 cm.</dc:format>
+<dc:identifier>9781138952904</dc:identifier>
+<dc:identifier>1138952907</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:relation>Routledge studies in anthropology ; 15</dc:relation>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Animism.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Life.</dc:subject>
+<dc:subject xsi:type="http://purl.org/dc/terms/LCSH">Anthropology of religion.</dc:subject>
+<dc:title>Animism and the question of life </dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">180504</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>1034012623</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<oclcdcs>
+<dc:creator>Praet, Istvan.</dc:creator>
+<dc:date>2013</dc:date>
+<dc:description>The central purpose of this book is to help change the terms of the debate on animism, a classic theme in anthropology. It combines some of the finest ethnographic material currently available (including firsthand research on the Chachi of Ecuador) with an unusually broad geographic scope (the Americas, Asia, and Africa). Edward B. Tylor originally defined animism as the first phase in the development of religion. The heyday of cultural evolutionism may be over, but his basic conception is commonly assumed to remain valid in at least one respect: there is still a broad consensus that everyt ...</dc:description>
+<dc:format>1 online resource (215 Seiten)</dc:format>
+<dc:identifier>9780415704953</dc:identifier>
+<dc:identifier>0415704952</dc:identifier>
+<dc:identifier>9781134500598</dc:identifier>
+<dc:identifier>1134500599</dc:identifier>
+<dc:language xsi:type="http://purl.org/dc/terms/ISO639-2">eng</dc:language>
+<dc:publisher>Taylor and Francis</dc:publisher>
+<dc:relation>Routledge Studies in Anthropology</dc:relation>
+<dc:title>Animism and the Question of Life</dc:title>
+<dc:type>Text</dc:type>
+<oclcterms:recordCreationDate xsi:type="http://purl.org/oclc/terms/marc008date">151105</oclcterms:recordCreationDate>
+<oclcterms:recordIdentifier>927993086</oclcterms:recordIdentifier>
+</oclcdcs>
+</recordData>
+</record>
+</records>
+<nextRecordPosition/>
+<resultSetIdleTime/>
+<echoedSearchRetrieveRequest xmlns:srw="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<query>srw.bn=9780415704953</query>
+<maximumRecords>10</maximumRecords>
+<recordSchema>info:srw/schema/1/dc</recordSchema>
+<recordPacking>xml</recordPacking>
+<startRecord>1</startRecord>
+<sortKeys>relevance</sortKeys>
+<wskey>u50CPHhMV19la1NF7ix4xkp1SzLPnb260HhvSw2DRANGFgrw6tEWImxfqAQV2PaqVeHj9cxYpwAeT6jV</wskey>
+<frbrGrouping>off</frbrGrouping>
+</echoedSearchRetrieveRequest>
+</searchRetrieveResponse>
