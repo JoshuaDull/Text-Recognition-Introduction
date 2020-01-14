@@ -1,7 +1,7 @@
 ---
 title: "OCR with ABBYY FineReader"
 teaching:  30
-exercises: 
+exercises: 5
 questions:
 - "How is ABBYY different from Acrobat?"
 - "How can you enhance PDFs for OCR?"
@@ -27,8 +27,12 @@ keypoints:
 * ABBYY Finereader for quick conversion of PDFs, including basic OCR
 * ABBYY OCR Editor for more OCR options, custom pattern recognition, language selection, and more. 
 
-1. Right-click on PDF, select Open with ABBYY OCR Editor 14
-2. Click 'Recognize Text' to run OCR on the PDF using the default ABBYY options.
+>## Getting Started with ABBYY
+>
+>1. Right-click on PDF, select Open with ABBYY FineReader 14.
+>2. Click the 'Recognize Text' drop-down and select 'Open in OCR Editor'.
+>
+{: .checklist}
 
 ### Viewing OCR output
 
