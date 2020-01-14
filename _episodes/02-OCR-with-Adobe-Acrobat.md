@@ -52,20 +52,29 @@ After we OCR any PDF, we create a hidden text layer. While invisiable to us, thi
 >## Hidden Text
 >
 > We can view the hidden text layer in Acrobat as an additional means of quality control.
->* While the 'Correct recognized text' option is open, check the box for 'Review recognized text'. 
+>
+>1. While the 'Correct recognized text' option is open, check the box for 'Review recognized text'. 
 >	* This option will show us the hidden text layer on top of the image of the text.
->* Now we can edit the text for each word, not just the words that Acrobat identified as potential errors.
->* You'll notice in our example PDF there are several words which are incorretly recognized. These were not identified by Acrobat as potenital issues. It's important to remember that 100% accuracy ewith OCR software is nearly impossible.
+>2. Now we can edit the text for each word, not just the words that Acrobat identified as potential errors.
+>
 {: .checklist}
+
+You'll notice in our example PDF there are several words which are incorretly recognized. These were not identified by Acrobat as potenital issues. It's important to remember that 100% accuracy with OCR software is nearly impossible.
 
 ### Bulk processing
 
 >## Using the 'Action Wizard'
 >
 >Adobe provides a way to create workflows through the Action Wizard. We can save these workflows and apply them to multiple PDFs or entire folders of PDFs.
->* From 'Tools', select 'Action Wizard'
->* New Action
->* Select OCR
->* Select Save as Text
->* Apply action to directory 
+>1. From 'Tools', select 'Action Wizard'
+>	![Screenshot of Acrobat Tools Menu](actionWizard.png)
+>2. In the next menu, select 'New Action'
+>3. There are several settings to change to complete our worflow
+>	* Under 'Files to be processed, choose the 'Acrobat' folder. This is the folder where your PDFs to recognize are saved.
+>	* From 'Recognize Text', add 'Recognize Text using OCR'.
+>	* Under 'Save & Export', add 'Save' twice.
+>	* Choose 'Specify Settings' and change 'Output Format' to 'Export File(s) to Alternative Format' and select 'Text (Plain)' form the 'Export to:' drop-down list.
+>	![Screenshot of Acrobat Tools Menu](newAction.png)
+>4. Rename the process and click 'Save'. We can now apply these steps to any folder and Acrobat will OCR each file and save two versions: one PDF and one Text file.
+>
 {: .checklist}
