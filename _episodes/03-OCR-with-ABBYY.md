@@ -31,7 +31,7 @@ keypoints:
 >
 >1. Right-click on PDF named 'InterAmerican.pdf', select Open with ABBYY FineReader 14.
 >2. Click the 'Recognize Text' drop-down and select 'Open in OCR Editor'.
-> ![Screenshot of OCR Editor Menu]('../assets/img/OCR_editor.png')
+> ![Screenshot of OCR Editor Menu](../assets/img/OCR_editor.png)
 {: .checklist}
 
 ### Viewing OCR output
@@ -39,7 +39,7 @@ keypoints:
 * After the OCR process is complete, we can compare the original document to the text-only version.
 * ABBYY highlights potential errors in blue. We can manually correct or edit the text data before saving/exporting for greater QA.
 
-![Screenshot of OCR Pages Menu]('../assets/img/verifyText.png')
+![Screenshot of OCR Pages Menu](../assets/img/verifyText.png)
 
 **Spend a few minutes manually correcting and verifying highlighted text.** 
 
@@ -78,7 +78,7 @@ Area templates allow us to identify all the text boxes on one page and apply an 
 >3.  Now select page 3 and repeat the steps 1 and 2 above.
 >	- Name the template 'trees_odd.blk'
 >4. From the 'Pages' toolbar, click the three dots, 'Select Pages', and then 'Even Pages'.
->	![Screenshot of OCR Pages Menu]('../assets/img/SelectOddEven.png')
+>	![Screenshot of OCR Pages Menu](../assets/img/SelectOddEven.png)
 >5. With the even pages highlighted, choose 'Area' from the top menu, select 'Load Area Template', and choose 'trees_even.blk'.
 >6. Repeat steps 4 and 5 using the odd pages and odd tamplate.
 >7. 'Recognize' the text again and see how the output changes.
