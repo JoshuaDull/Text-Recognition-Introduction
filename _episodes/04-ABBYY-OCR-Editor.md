@@ -34,10 +34,26 @@ ABBYY is not limited to English or Latin text. ABBYY has a robust list of langua
 
 >## Non-English OCR
 >
->
->
+>1. Right-click on PDF named 'Russian.pdf', select Open with ABBYY FineReader 14.
+>2. Click the 'Recognize Text' drop-down and select 'Open in OCR Editor'. 
+>3. Select Language as 'Russian' if not automatically detected.
+>4. Click 'Recgonize' again and see how the results have improved. We can edit this PDF in the same way we would with an English text.
 >
 {: .checklist}
 
+### Improving Pattern Recognition
 
+ABBYY comes trained on many different alphabets and languages. Of course, ABBYY does not know every font used through history. Also, special characters or ligatures might not be in ABBYY's dictionaries. 
+
+* We can enhance ABBYY's existing patterns through training. 
+* You can custom train ABBYY from scratch or you can add to an existing pattern dictioanry.
+
+>## Pattern Training and Gothic Fonts
+> Typically, modern English is printed using Roman typeface. Other types like Blackletter Gothic are no longer popular, but were used in historic text. 
+> Many historic texts in English use a combination of old and modern types. We can enhance our existing pattern dictionary by training ABBYY on the meanings of older style type.   
+>
+>1. Right-click on PDF named 'Non-Latin.pdf', select Open with ABBYY FineReader 14.
+>2. Click the 'Recognize Text' drop-down and select 'Open in OCR Editor'. 
+>
+{: .checklist} 
 

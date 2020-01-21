@@ -67,7 +67,7 @@ You'll notice in our example PDF there are several words which are incorretly re
 >
 >Adobe provides a way to create workflows through the Action Wizard. We can save these workflows and apply them to multiple PDFs or entire folders of PDFs.
 >1. From 'Tools', select 'Action Wizard'
->	![Screenshot of Acrobat Tools Menu](../assets/img/actionWizard.png)
+>![Screenshot of Acrobat Tools Menu](../assets/img/actionWizard.png)
 >2. In the next menu, select 'New Action'
 >3. There are several settings to change to complete our worflow
 >	* Under 'Files to be processed, choose the 'Acrobat' folder. This is the folder where your PDFs to recognize are saved.
