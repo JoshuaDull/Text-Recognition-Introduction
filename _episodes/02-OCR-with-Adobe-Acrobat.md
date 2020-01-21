@@ -20,7 +20,7 @@ Adobe Acrobat is a great entry-level tool for OCR. It works best for good qualit
 >## First Steps with Acrobat
 >
 >* In the sample data, go to the 'Acrobat' folder and open 'CeremonialMagic_1.pdf' in Adobe Acrobat.
->	* Right_click filename
+>	* Right-click the file
 >	* Select 'Open with' and choose Adobe Acrobat
 >	* If this is your first time using Acrobat, you will be asked to sign-in to your account. Use your Yale crendaentials (NetID & password). 
 >* Select 'Scan & OCR' from the 'Tools' menu.
@@ -67,14 +67,14 @@ You'll notice in our example PDF there are several words which are incorretly re
 >
 >Adobe provides a way to create workflows through the Action Wizard. We can save these workflows and apply them to multiple PDFs or entire folders of PDFs.
 >1. From 'Tools', select 'Action Wizard'
->	![Screenshot of Acrobat Tools Menu](actionWizard.png)
+>	![Screenshot of Acrobat Tools Menu](../assets/img/actionWizard.png)
 >2. In the next menu, select 'New Action'
 >3. There are several settings to change to complete our worflow
 >	* Under 'Files to be processed, choose the 'Acrobat' folder. This is the folder where your PDFs to recognize are saved.
 >	* From 'Recognize Text', add 'Recognize Text using OCR'.
 >	* Under 'Save & Export', add 'Save' twice.
 >	* Choose 'Specify Settings' and change 'Output Format' to 'Export File(s) to Alternative Format' and select 'Text (Plain)' form the 'Export to:' drop-down list.
->	![Screenshot of Acrobat Tools Menu](newAction.png)
+>	![Screenshot of Acrobat Tools Menu](../assets/img/newAction.png)
 >4. Rename the process and click 'Save'. We can now apply these steps to any folder and Acrobat will OCR each file and save two versions: one PDF and one Text file.
 >
 {: .checklist}

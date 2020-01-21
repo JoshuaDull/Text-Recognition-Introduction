@@ -39,7 +39,7 @@ keypoints:
 * After the OCR process is complete, we can compare the original document to the text-only version.
 * ABBYY highlights potential errors in blue. We can manually correct or edit the text data before saving/exporting for greater QA.
 
-- Spend a few minutes manually correcting and verifying highlighted text. 
+**Spend a few minutes manually correcting and verifying highlighted text.** 
 
 ### Creating an Area Template
 
