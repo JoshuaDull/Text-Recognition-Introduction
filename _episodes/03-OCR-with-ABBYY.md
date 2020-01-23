@@ -49,13 +49,13 @@ keypoints:
 * The default option will try to intellegently correct the image so the OCR engine can more easily recognize text. You can also edit the scans manually. 
 
 >## Using the Image Editor
->1. Right-click on PDF named 'PlantPests.pdf', select Open with ABBYY FineReader 14. 
+>1. Right-click on PDF named 'PlantPestsCT.pdf', select Open with ABBYY FineReader 14. 
 >2. Click the 'Recognize Text' drop-down and select 'Open in OCR Editor'.
 >	- You'll see the recognized text quality is very low. We can use the built-in image editing tools to improve the accuracy of the OCR. 
 >3. Click 'Image Editor'. This will open a new interface in ABBYY for editing images to improve OCR quality.
 >4. There are several tasks we can do to improve the OCR quality:
 >	- Crop out non-essential features
->	- Chnge background color to white
+>	- Change background color to white
 >	- Increase contrast or brightness
 >	- de-skew words/lines
 >	- Remove noise & marks
