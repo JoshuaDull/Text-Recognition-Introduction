@@ -49,7 +49,7 @@ Notices:
   rights such as publicity, privacy, or moral rights may limit how you
   use the material.
   
-  ## Software
+## Software
 
 Except where otherwise noted, the example programs and other software
 provided by Software, Data and Library Carpentry are made available under the
