@@ -5,7 +5,7 @@
 
 ## Workshop
 
-This workshop is availabel online at [https://joshuadull.github.io/Text-Recognition-Introduction/](https://joshuadull.github.io/Text-Recognition-Introduction/).
+This workshop is available online at [https://joshuadull.github.io/Text-Recognition-Introduction/](https://joshuadull.github.io/Text-Recognition-Introduction/).
 
 ## Contributors
 
