@@ -1,6 +1,6 @@
 # Text Recognition with Adobe Acrobat and ABBYY FineReader
 
-This workshop's instructional materials '[Text Recognition with Adobe Acrobat and ABBYY FineReader](https://joshuadull.github.io/OCR_Acrobat_ABBYY/)' were authored by [Joshua Dull](https://github.com/joshuadull).
+This workshop's instructional materials '[Text Recognition with Adobe Acrobat and ABBYY FineReader](https://joshuadull.github.io/Text-Recognition-Introduction/)' were authored by [Joshua Dull](https://github.com/joshuadull).
 
 Thank you to The Carpentries for providing the lesson theme which is also licensed under [CC-BY 4.0 2018–2019](https://creativecommons.org/licenses/by/4.0/) by [The Carpentries](https://carpentries.org/). 
 
