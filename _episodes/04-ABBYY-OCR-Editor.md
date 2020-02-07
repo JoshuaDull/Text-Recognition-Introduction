@@ -30,6 +30,8 @@ Many PDFs include data in the form of tables. While recognizing the text and num
 >
 {: .checklist}
 
+![Screenshot of ABBYY recognizing data tables](../assets/img/ABBYY_Tables.png)
+
 ### Non-Latin Text
 
 ABBYY is not limited to English or Latin text. ABBYY has a robust list of languages that are supported. You can evern choose multiple languages if a document is multi-lingual.
@@ -59,3 +61,4 @@ ABBYY comes trained on many different alphabets and languages. Of course, ABBYY 
 >3. In the Options menu, under OCR select 
 {: .checklist} 
 
+![Screenshot of ABBYY's Pattern Trainer](../assets/img/patternTraining.png)
