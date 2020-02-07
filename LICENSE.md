@@ -6,7 +6,9 @@ root: .
 
 # Text Recognition with Adobe Acrobat and ABBYY FineReader
 
-This workshop's instructional materials '[Text Recognition with Adobe Acrobat and ABBYY FineReader](https://joshuadull.github.io/OCR_Acrobat_ABBYY/)' were authored by [Joshua Dull](https://github.com/joshuadull).
+## Contributors
+
+This workshop's instructional materials '[Text Recognition with Adobe Acrobat and ABBYY FineReader](https://joshuadull.github.io/Text-Recognition-Introduction/)' were authored by [Joshua Dull](https://github.com/joshuadull).
 
 Thank you to The Carpentries for providing the lesson theme which is also licensed under [CC-BY 4.0 2018–2019](https://creativecommons.org/licenses/by/4.0/) by [The Carpentries](https://carpentries.org/). 
 
@@ -46,3 +48,29 @@ Notices:
   permissions necessary for your intended use. For example, other
   rights such as publicity, privacy, or moral rights may limit how you
   use the material.
+  
+  ## Software
+
+Except where otherwise noted, the example programs and other software
+provided by Software, Data and Library Carpentry are made available under the
+[OSI][osi]-approved
+[MIT license][mit-license].
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
