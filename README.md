@@ -12,6 +12,8 @@ Thank you to The Carpentries for providing the lesson theme which is also licens
 
 ## License
 
+This workshop is derived from work that is Copyright © Software Carpentry, but the workshop content (images, episodes, excercises, etc.) were developed solely by the Joshua Dull.
+
 ### Instructional Material
 
 This instructional material is made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
