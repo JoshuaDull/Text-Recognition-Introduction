@@ -1,6 +1,6 @@
 # Text Recognition with Adobe Acrobat and ABBYY FineReader
 
-![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3658695.svg)](http://doi.org/10.5281/zenodo.3658695)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3658695.svg)](http://doi.org/10.5281/zenodo.3658695)  
 
 
 ## Workshop
